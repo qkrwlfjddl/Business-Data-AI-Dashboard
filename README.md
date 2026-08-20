@@ -83,18 +83,6 @@ Dashboard   AI Analysis
 [전체 아키텍처 보기 →](docs/architecture.md)
 
 ---
-
-## 👤 My Contribution
-
-| 영역 | 담당 |
-|---|---|
-| 🔗 **Data Integration** | SAP / GA4 / Web 데이터를 BigQuery 중심으로 통합 |
-| 📊 **Analytics** | 통합 성과 분석 Dashboard 구현 |
-| 🤖 **AI Analysis** | 분석 데이터를 AI 컨텍스트로 구성하고 Gemini 기반 리포트 생성 |
-| 🧠 **Knowledge Base** | 리포트·담당자 의견·분석 데이터 저장 및 RAG Corpus 구성 |
-| 🔄 **Comparison** | 현재 리포트 ↔ 과거 리포트 AI 비교 |
-
----
 ## 📚 Documentation
 
 [주요 기능과 화면 보기 →](docs/features.md)  
@@ -106,5 +94,3 @@ Dashboard   AI Analysis
 [AI / RAG 구현 보기 →](docs/ai-rag.md)  
 선택적 AI 컨텍스트 구성, 리포트 저장, RAG Corpus, Vector Search, 과거 리포트 비교 구조를 정리했습니다.
 
-[My Contribution 보기 →](docs/contribution.md)  
-데이터 통합, 분석 시스템, AI, Knowledge Base, 비교 기능에서 담당한 역할을 정리했습니다.
