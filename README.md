@@ -95,10 +95,16 @@ Dashboard   AI Analysis
 | 🔄 **Comparison** | 현재 리포트 ↔ 과거 리포트 AI 비교 |
 
 ---
-
 ## 📚 Documentation
 
-- [Features](docs/features.md)
-- [Architecture](docs/architecture.md)
-- [AI / RAG](docs/ai-rag.md)
-- [My Contribution](docs/contribution.md)
+[주요 기능과 화면 보기 →](docs/features.md)  
+대시보드에서 제공하는 매출·이벤트·GA·AI 리포트·비교·RAG 기능을 정리했습니다.
+
+[전체 아키텍처 보기 →](docs/architecture.md)  
+데이터 통합부터 Dashboard, AI Analysis, Report Storage, Comparison, RAG까지 전체 시스템 흐름을 확인할 수 있습니다.
+
+[AI / RAG 구현 보기 →](docs/ai-rag.md)  
+선택적 AI 컨텍스트 구성, 리포트 저장, RAG Corpus, Vector Search, 과거 리포트 비교 구조를 정리했습니다.
+
+[My Contribution 보기 →](docs/contribution.md)  
+데이터 통합, 분석 시스템, AI, Knowledge Base, 비교 기능에서 담당한 역할을 정리했습니다.
