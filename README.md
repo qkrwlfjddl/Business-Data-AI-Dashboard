@@ -1,3 +1,5 @@
+<div align="center">
+
 # Business Data & AI Dashboard
 
 ### 통합 성과 분석 · AI 리포트 · RAG 기반 업무용 데이터 플랫폼
@@ -14,15 +16,18 @@
   <img src="https://img.shields.io/badge/RAG-412991?style=flat-square&logoColor=white">
 </p>
 
+<sub> 🔐 실제 업무 데이터와 소스 코드는 보안상 공개하지 않습니다.
+공개 가능한 범위에서 시스템 구조, 데이터 흐름, 분석 로직 및 구현 내용을 정리했습니다.</sub>
+
+</div>
+
 ---
 
 온라인 교육 사업에 분산되어 있던 **매출 · 마케팅 · 콘텐츠 데이터를 BigQuery로 통합**하고,
 통합 데이터를 기반으로 **성과 분석 → AI 리포트 → 과거 리포트 비교 → RAG 검색**까지 연결한 업무용 데이터 분석 플랫폼입니다.
 
-> 🔒 **Private Work Project**  
-> 실제 업무 데이터와 소스 코드는 보안상 공개하지 않습니다.
 
----
+----
 
 ## 구현 결과
 
@@ -91,25 +96,9 @@ Dashboard   AI Analysis
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard Main](docs/images/screenshot_main.png)
-
-| Annual Sales | AI Report |
-|---|---|
-| ![Annual](docs/images/screenshot_annual.png) | ![AI Report](docs/images/screenshot_ai_report.png) |
-
----
-
 ## 📚 Documentation
 
 - [Features](docs/features.md)
 - [Architecture](docs/architecture.md)
 - [AI / RAG](docs/ai-rag.md)
 - [My Contribution](docs/contribution.md)
-
----
-
-## 🛠️ Tech Stack
-
-`Python` `SQL` `Streamlit` `BigQuery` `Airflow` `Cloud Run` `Gemini` `Vertex AI` `RAG`
