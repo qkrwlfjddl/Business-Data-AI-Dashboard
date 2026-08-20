@@ -1,12 +1,23 @@
+
+<div align="center">
+
 # Business Data & AI Dashboard
 
 온라인 교육 사업의 **매출 · 마케팅 · 콘텐츠 데이터를 BigQuery로 통합**하고,
 통합 데이터를 기반으로 **성과 분석 → AI 리포트 → 과거 리포트 비교 → RAG 검색**까지 연결한 업무용 데이터 분석 플랫폼입니다.
 
-> 🔒 **Private Work Project**
-> 실제 업무 데이터와 소스 코드는 보안상 공개하지 않습니다.
-> 공개 가능한 범위에서 시스템 구조, 데이터 흐름, 분석 로직 및 구현 내용을 정리했습니다.
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud%20Composer-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white">
+  <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</p>
 
+<sub>  실제 업무 데이터와 소스 코드는 보안상 공개하지 않습니다.
+공개 가능한 범위에서 시스템 구조, 데이터 흐름, 분석 로직 및 구현 내용을 정리했습니다.</sub>
+</div>
 ---
 
 ## 🎯 Why
